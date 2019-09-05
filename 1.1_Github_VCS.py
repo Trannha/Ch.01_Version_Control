@@ -188,10 +188,10 @@ Each student has 10 lines of code to play with!
 
 
 ------------------Student 19------------------
-Yeet
-
-
-
+Roses are red
+Violets are blue
+My name is not Bob
+and neither is yours
 
 
 

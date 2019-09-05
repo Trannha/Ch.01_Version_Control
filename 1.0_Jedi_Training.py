@@ -1,21 +1,21 @@
 '''
-Sign your name:________________
+Sign your name: Nha Tran
 
 
 
-Define Forking: 
+Define Forking: Copying a directory and putting it on your own github account
 
-Define Cloning: 
+Define Cloning: Making a copy of the files on your computer
 
-Define Branching:
+Define Branching: Making a new instance of whatever you've written so far, separate from the master
 
-Define Committing: 
+Define Committing: Saving with comments and stuff
 
 Define Merging: 
 
-Define Pushing:
+Define Pushing: Save changes to github account repository
 
-Define Pull Request:
+Define Pull Request: Sending code to the original repository file thing
 
 
 '''
