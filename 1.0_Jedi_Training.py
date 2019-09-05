@@ -11,7 +11,7 @@ Define Branching: Making a new instance of whatever you've written so far, separ
 
 Define Committing: Saving with comments and stuff
 
-Define Merging: 
+Define Merging: Replaces another person's code into the original code to make changes
 
 Define Pushing: Save changes to github account repository
 

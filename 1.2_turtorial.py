@@ -48,4 +48,4 @@ yoda.circle(40, 180)
 
 
 
-turtle.exitonclick() #Keeps pycharm window open
+turtle.exitonclick() #Keeps p ycharm window open
